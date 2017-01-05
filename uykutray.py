@@ -1,5 +1,5 @@
 # encoding: utf-8
-# Some of codes of happyMaker (https://github.com/happyMaker/mutuke/blob/master/win-client/win32gui_taskbar.py)
+# Some of codes from happyMaker (https://github.com/happyMaker/mutuke/blob/master/win-client/win32gui_taskbar.py)
 import win32api, win32gui
 import win32con, winerror
 import sys, os
